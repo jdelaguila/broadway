@@ -3,3 +3,7 @@ body {
   height: 240px;
   background-repeat: no-repeat;
 }
+
+html {
+  text-align: center;
+}
